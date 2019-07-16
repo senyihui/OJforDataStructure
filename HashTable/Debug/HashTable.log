@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\sn\source\repos\数据结构oj\hashtable\源.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\sn\source\repos\数据结构oj\hashtable\源.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\sn\source\repos\数据结构oj\hashtable\源.cpp(97): warning C4715: “closeHashTable::find”: 不是所有的控件路径都返回值
+  HashTable.vcxproj -> C:\Users\SN\source\repos\数据结构OJ\Debug\HashTable.exe
